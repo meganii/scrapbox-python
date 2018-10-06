@@ -10,8 +10,8 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='scrapbox_python',
-    version='0.0.2',
+    name='scrapbox',
+    version='0.0.3',
     description='Scrapbox Python',
     long_description=readme,
     author='meganii',
