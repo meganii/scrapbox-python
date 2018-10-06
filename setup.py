@@ -11,7 +11,7 @@ with open('LICENSE') as f:
 
 setup(
     name='scrapbox_python',
-    version='0.0.1',
+    version='0.0.2',
     description='Scrapbox Python',
     long_description=readme,
     author='meganii',
